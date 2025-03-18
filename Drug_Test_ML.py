@@ -68,3 +68,5 @@ p = np.poly1d(z)
 plt.plot(y_train, p(y_train), '#F8766D')
 plt.ylabel('Predict LogS')
 plt.xlabel('Experimental LogS')
+
+print("Thank you")
